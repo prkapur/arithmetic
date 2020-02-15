@@ -19,8 +19,6 @@ class TestArithmeticOperations(unittest.TestCase):
     def test_division(self):
         self.assertEqual(self.arith.division(),2.5)
 
-
 if __name__ == "__main__":
     unittest.main()
 
-import unittest

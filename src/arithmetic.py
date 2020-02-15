@@ -1,5 +1,3 @@
-import logging
-
 class Arithmetic():
     """ A Class for simple math operations """
     def __init__(self, a, b):
@@ -29,7 +27,6 @@ class Arithmetic():
         except ZeroDivisionError:
             pass
         
-
 if __name__ == "__main__":
     arith = Arithmetic(3,5)
     print(f"Add:{arith.addition()}")
