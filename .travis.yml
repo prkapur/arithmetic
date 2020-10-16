@@ -4,4 +4,4 @@ python:
 install:
  - pip install -r requirements.txt
 script:
- - python3 -m unittest testMasseyMethod
+ - python -m unittest tests.testMasseyMethod
