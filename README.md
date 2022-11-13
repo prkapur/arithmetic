@@ -1,2 +1,3 @@
 # arithmetic
-A simple arithmetic operations class
+A simple arithmetic operations class operation to demonstrate testing.
+
